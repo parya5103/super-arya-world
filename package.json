@@ -1,0 +1,13 @@
+{
+  "name": "super-arya-world",
+  "version": "1.0.0",
+  "description": "A Mario-style 3D side-scrolling platformer game",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
+  }
+}
